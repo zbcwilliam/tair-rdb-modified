@@ -1,3 +1,6 @@
+add some orders in the tair-rdb shell by zbcwilliam 
+the added orders are: zadd, zrem, zrange, zrangebyscore, zcard, scard;
+
 Tair is a distributed key-value storage system originally developed at Taobao.com.
 
 * features:
