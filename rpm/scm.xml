@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bases>
+  <scm version="1.0">
+    <app>
+      <corp>集团</corp>
+      <deptment>
+        <main>技术共享平台</main>
+        <sub>核心系统研发</sub>
+        <three>存储</three>
+      </deptment>
+      <line>
+        <main>核心系统</main>
+        <sub>tair</sub>
+      </line>
+      <name>tair_rdb</name>
+      <connection>http://code.taobao.org/svn/tair/branches/tair_2.3.2_redis/</connection>
+    </app>
+  </scm>
+</bases>

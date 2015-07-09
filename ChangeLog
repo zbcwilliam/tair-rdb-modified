@@ -1,0 +1,11 @@
+2010-06-30
+* tair opensourced
+2012-06-15
+* tair rdb add new interface genericZrangebyscore and lazyRemoveArea
+2012-07-18
+* tair group error fix
+2012-09-17
+* memory limit bug fix
+* small lock
+* filter feature
+* master/slave cluster sync
